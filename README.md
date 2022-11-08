@@ -22,6 +22,6 @@ The Eurodollar is commonly used as the market’s 3M prediction for the Federal 
 - A simple linear regression model explains 85% of the variance of the 30Yr Conforming Mortgage Rates, with a relative mean absolute error of 8.8% and a mean absolute error of .45%. 
 - A random forest regressor explains 98.5% of the variance of the 30Yr Conforming Mortgage Rates, with a relative mean absolute error of 2.4% and a mean absolute error of .12%.
 
-#NOTES
+# NOTES
 This algorithim was last run on 11/8/22 and the predicted 30Yr Conforming rate for the week of 11/6-11/12 was 6.61%-6.97%. 
 The algorithim will be forward-tested for four consecutive weeks and the results will be uploaded in this repository.
