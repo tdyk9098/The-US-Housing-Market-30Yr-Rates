@@ -14,9 +14,9 @@ The historical data for the Eurodollar, S&P 500, Lumber, and USDOLLAR were all s
 The Eurodollar is commonly used as the market’s 3M prediction for the Federal Reserve Rate (Fed Funds). This relationship is tested using monthly data through a simple linear regression and can be found in the notebook titled Eurodollar and Fed Funds.
 -	Fed funds = -.25 + .981eurodollar
 -	Slope has a Pval of 0
--	The negative intercept shows that the Fed Funds are typically a quarter point below the predicted Fed Funds derived from the Eurodollar.
--	The Eurodollar accounts for 97% of the explained variance in the Fed Funds rate.
--	The relative mean absolute error is 11.39%, and the mean absolute error is .35%
+-	The negative intercept shows that the Effective Fed Funds rates are typically a quarter point below the predicted Fed Funds derived from the Eurodollar.
+-	The Eurodollar accounts for 97% of the explained variance in the Effective Fed Funds rate.
+-	When taking the monthly closing print of the Eurodollar and comparing the monthly Effective Fed Funds rate three months later: the relative mean absolute error is 11.39%, and the mean absolute error is .35%
 
 # 30YR CONFORMING MORTGAGE RATES
 - A simple linear regression model explains 85% of the variance of the 30Yr Conforming Mortgage Rates, with a relative mean absolute error of 8.8% and a mean absolute error of .45%. 
