@@ -1,7 +1,7 @@
 # The-US-Housing-Market-30Yr-Rates
 
 # INTRODUCTION
-The goal of this study is to develop machine learning models that attempt to predict the 30Yr Conforming mortgage rate of the following week using cross-sectional data. The algorithims were designed to be run at the end of the week using the closing print and the percent change from the following inputs:
+The goal of this project is to develop machine learning models that attempt to predict the 30Yr Conforming mortgage rate of the following week using cross-sectional data. The algorithms were designed to be run at the end of the week using the closing print and the percent change from the following inputs:
 - Eurodollar 3M
 - S&P 500
 - Lumber
@@ -23,5 +23,5 @@ The Eurodollar is commonly used as the market’s 3M prediction for the Federal 
 - A random forest regressor explains 98.5% of the variance of the 30Yr Conforming Mortgage Rates, with a relative mean absolute error of 2.4% and a mean absolute error of .12%.
 
 # NOTES
-This algorithim was last run on 11/8/22 and the predicted 30Yr Conforming rate for the week of 11/6-11/12 was 6.61%-6.97%. 
-The algorithim will be forward-tested for four consecutive weeks and the results will be uploaded in this repository.
+This algorithm was last run on 11/8/22 and the predicted 30Yr Conforming rate for the week of 11/6-11/12 was 6.61%-6.97%. 
+The algorithm will be forward-tested for four consecutive weeks and the results will be uploaded in this repository.
