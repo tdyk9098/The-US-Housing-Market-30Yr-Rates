@@ -25,3 +25,5 @@ The Eurodollar is commonly used as the market’s 3M prediction for the Federal 
 # NOTES
 This algorithm was last run on 11/8/22 and the predicted 30Yr Conforming rate for the week of 11/6-11/12 was 6.78% with a mean squared error range of 6.61%-6.97%. 
 The algorithm will be forward-tested for four consecutive weeks and the results will be uploaded in this repository.
+
+The actual rate for the week of 11/6-11/12 was 7.08%. Future real rates will be updated in the Excel sheet in this repository. 
