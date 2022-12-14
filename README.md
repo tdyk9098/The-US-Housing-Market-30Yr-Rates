@@ -7,7 +7,7 @@ The goal of this project is to develop machine learning models that attempt to p
 - Lumber
 - US Dollar
 
-The historical data for the Eurodollar, S&P 500, Lumber, and USDOLLAR were all sourced from Investing.com. The Freddie Mac Mortgage rates were sourced from the Freddie Mac Research section of the website.
+The historical data for the Eurodollar Futures, Lumber Futures, and USDOLLAR Futures were all sourced from Investing.com. S&P 500 Futures was sourced from Yahoo Finance. The Freddie Mac Mortgage rates were sourced from the Freddie Mac Research section of the website.
 
 # RESULTS
 # EURODOLLAR AND FED FUND
